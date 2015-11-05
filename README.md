@@ -2,6 +2,7 @@
 
 A simple parking meter GUI for EECS3461
 
+
 In collaboration with Richmond Frimpong, Daniyal Javed we were able
 to create an interface for parking meters that include
 -> A welcome screen with click to touch
