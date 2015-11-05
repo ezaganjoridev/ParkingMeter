@@ -1,6 +1,6 @@
-cse31034, 212654570, Javed, Daniyal
-cse23004, 212114641, Frimpong, Richmond
-cse23106, 211509551, Zaganjori, Edgar
+    Javed, Daniyal
+    Frimpong, Richmond
+    Zaganjori, Edgar
 
     ---------------------
     Special Requirements: (optional)
