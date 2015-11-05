@@ -1,7 +1,6 @@
 
 /**
  * @author Richmond Frimpong, Edgar Zaganjori, Daniyal Javed
- * cse : cse23004, cse23106, cse31034
  * YorkU Parking Meter GUI
  * EECS3461 - Scott McKenzie
  */
