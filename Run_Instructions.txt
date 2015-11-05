@@ -1,8 +1,7 @@
 Our project was built under Eclipse MARS using 
-java jkd 1.8.0_45 (build 1.8.0_45-b14) and was 
-unable to be compiled in the lab environment 
-using Eclipse LUNA. We have thoroughly tested 
-our project via command line by compiling
+java jkd 1.8.0_45 (build 1.8.0_45-b14). 
+We have thoroughly tested our project 
+via command line by compiling
 
 javac *.java
 java a1
